@@ -1,0 +1,12 @@
+{
+  "architectures": ["YolosForObjectDetection"],
+  "model_type": "yolos",
+  "hidden_size": 384,
+  "num_hidden_layers": 6,
+  "num_attention_heads": 6,
+  "intermediate_size": 1536,
+  "image_size": 518,
+  "patch_size": 14,
+  "num_labels": 91,
+  "id2label": {}
+}
